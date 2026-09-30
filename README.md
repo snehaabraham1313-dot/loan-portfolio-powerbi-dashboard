@@ -25,7 +25,7 @@ KPI cards for Total Applications, Approval Rate, Total Disbursed, and Default Ra
 
 **Page 2 — Risk & Defaults**
 
-![Risk and defaults](risk-and-default.png)
+![Risk and defaults](risk and default.png)
 
 A Risk Category × Loan Type matrix with a conditional-formatting heatmap on default rate, alongside a stacked bar chart showing risk composition by branch.
 
